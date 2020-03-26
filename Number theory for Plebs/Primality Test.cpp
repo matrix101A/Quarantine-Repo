@@ -1,4 +1,4 @@
-//This code can check if a no is prime or nor in log n time .
+//This code can check if a no is prime or nor in sqrt n time .
 #include <bits/stdc++.h>
 using namespace std;
 bool test(int a)
