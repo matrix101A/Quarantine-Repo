@@ -27,7 +27,7 @@ int main()
           int n,m;  //no of nodes and edges
           cin>>n>>m;
           int cc=0; //no of connected components
-          REP( i,n)
+          REP( i,m)
           {
                   int a,b;
                   cin>>a>>b;

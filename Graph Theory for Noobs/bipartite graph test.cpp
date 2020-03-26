@@ -32,7 +32,7 @@ int main()
           int n,m;  //no of nodes and edges
           int k ;//beginig node for dfs
           cin>>n>>m;
-          REP( i,n)
+          REP( i,m)
           {
                   int a,b;
                   cin>>a>>b;
