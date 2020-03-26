@@ -1,4 +1,4 @@
-
+//This code can calculate a^n in log n complexity 
 # include<bits/stdc++.h>
 using namespace std;
 int main()
