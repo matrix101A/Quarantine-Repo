@@ -14,7 +14,7 @@
 using namespace std;
 vi ad[1001]; //adjacency list of tree
 int lvl[1001];//storing level of each node
-int par[1001][11];//storing 2^^i th parent of each node to implement path compression
+int par[1001][11];//storing 2^i th parent of each node to implement path compression
 void dfs(int n,int l,int p)//running dfs to set the level and parent node .
 {
          par[n][0]=p;
