@@ -1,4 +1,4 @@
-//problem satatement :
+//problem satatement : https://www.codechef.com/problems/JAM11
 #include<bits/stdc++.h>
 using namespace std;
 # define mod 1000000007
